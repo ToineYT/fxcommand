@@ -1,6 +1,6 @@
 # Fx Command Deckboard
 
-This plugin helps FiveM/RedM users send various commands through Deckboard. It is inspired by the StreamDeck plugin found here: [EggRP/fxcommands](https://github.com/EggRP/fxcommands).
+This plugin helps FiveM users send various commands through Deckboard. It is inspired by the StreamDeck plugin found here: [EggRP/fxcommands](https://github.com/EggRP/fxcommands).
 
 ## Usage
 
