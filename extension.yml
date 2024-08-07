@@ -1,0 +1,7 @@
+name: Fx Command
+package: fxcommand
+version: 1.0.0
+description: Run command like emoten /me on your Fivem/RedM
+author: Toine
+license: MIT
+repository: 'https://github.com/ToineYT/fxcommand-deckboard'
