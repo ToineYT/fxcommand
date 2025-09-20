@@ -7,7 +7,7 @@ class FxCommandExtension extends Extension {
 	constructor() {
 		super();
 		this.name = 'Fx Command';
-		this.platforms = [PLATFORMS.WINDOWS, PLATFORMS.MAC];
+		this.platforms = [PLATFORMS.WINDOWS];
 		this.inputs = [
 			{
 				label: 'Send Command',
