@@ -1,12 +1,12 @@
 {
-  "name": "deckboard-power-control",
-  "version": "1.0.3",
-  "description": "Shutdown and restart the PC through Deckboard",
+  "name": "fxcommand",
+  "version": "1.0.4",
+  "description": "Fx Command Deckboard",
   "main": "index.js",
   "scripts": {
     "build": "deckboard-kit --build"
   },
-  "author": "Riva Farabi",
+  "author": "Toine",
   "license": "MIT",
   "dependencies": {
     "deckboard-kit": "^0.1.0",
